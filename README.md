@@ -65,9 +65,6 @@ Model performance is evaluated through:
 ## Technologies Used
 - Python
 - Tensorflow
-- Deep Learning
-- Vision Transformers (Swin Transformer)
-- Transfer Learning
 - NumPy
 - Matplotlib
 
