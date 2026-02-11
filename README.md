@@ -13,8 +13,6 @@ The notebook demonstrates how transformer-based models can be effectively applie
 - Apply **transfer learning** with a Swin Transformer model.
 - Fine-tune a pretrained vision transformer for domain-specific imagery.
 - Analyze training behavior and classification performance.
-- Evaluate the suitability of transformer architectures for aerial image recognition.
-
 ---
 
 ## Dataset: xView-Recognition
@@ -66,16 +64,12 @@ Model performance is evaluated through:
 
 ## Technologies Used
 - Python
+- Ultralytics
 - Deep Learning
 - Vision Transformers (Swin Transformer)
 - Transfer Learning
 - NumPy
 - Matplotlib
-- Deep learning framework used in the notebook (e.g., PyTorch)
 
 ---
 
-## Repository Structure
-```text
-├── TL_Swim_Transformer.ipynb
-└── README.md
