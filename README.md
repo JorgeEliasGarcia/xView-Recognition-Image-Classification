@@ -64,7 +64,7 @@ Model performance is evaluated through:
 
 ## Technologies Used
 - Python
-- Ultralytics
+- Tensorflow
 - Deep Learning
 - Vision Transformers (Swin Transformer)
 - Transfer Learning
