@@ -40,7 +40,7 @@ Key characteristics:
 
 ### Transfer Learning Setup
 - Initialization from pretrained Swin Transformer weights.
-- Replacement or adaptation of the classification head.
+- Adaptation of the classification head.
 - Fine-tuning the model on the xView-recognition dataset.
 - Selective freezing/unfreezing of layers to balance stability and adaptability.
 
