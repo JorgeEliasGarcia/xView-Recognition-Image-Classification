@@ -49,6 +49,7 @@ Key characteristics:
 ## Training Strategy
 - Supervised learning for multi-class image classification.
 - Optimization using gradient-based methods.
+- Data augmentation and other regularization methods. 
 - Monitoring of training and validation metrics.
 - Iterative adjustments to improve convergence and generalization.
 
