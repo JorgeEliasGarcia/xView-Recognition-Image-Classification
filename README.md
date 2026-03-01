@@ -26,7 +26,7 @@ Key characteristics:
 ### Data Preparation
 - Loading and organizing images according to class labels.
 - Applying image transformations compatible with the Swin Transformer.
-- Splitting data into training and validation (and/or test) sets.
+- Splitting data into training and validation sets.
 
 ---
 
