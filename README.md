@@ -1,4 +1,4 @@
-# Image Classification on xView-Recognition using Swin Transformer
+# Image Classification on xView-Recognition dataset using Swin Transformer
 
 
 This project addresses an **image classification problem** using the **xView-recognition dataset**, a large-scale dataset designed for object and scene recognition in aerial imagery.  
